@@ -1,0 +1,33 @@
+{
+  "name": "rstoreinc",
+  "version": "1.0.0",
+  "description": "**js本地存储和增量更新requirejs插件使用** ----------------------------",
+  "main": "makeinc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luyongfugx/rstoreinc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luyongfugx/rstoreinc/issues"
+  },
+  "homepage": "https://github.com/luyongfugx/rstoreinc#readme",
+  "devDependencies": {
+    "buffer": "^4.2.0",
+    "clean": "^4.0.2",
+    "fs": "0.0.2",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-replace": "^0.5.4",
+    "gulp-rev": "^6.0.1",
+    "gulp-rev-all": "^0.8.22",
+    "gulp-rev-collector": "^1.0.2",
+    "gulp-run-sequence": "^0.3.2",
+    "through-gulp": "^0.3.8",
+    "through2": "^2.0.0"
+  }
+}
